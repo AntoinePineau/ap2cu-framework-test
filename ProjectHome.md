@@ -1,0 +1,1 @@
+This Test Framework is basing on Junit
